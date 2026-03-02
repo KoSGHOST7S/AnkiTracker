@@ -20,6 +20,7 @@
 ### All-time
 - Total sessions: 1
 - Total cards reviewed: 373
+- Total time studied: 2.3 hrs
 
 ---
 *Auto-updated by [ankitracker](https://github.com/KoSGHOST7S/AnkiTracker)*
