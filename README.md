@@ -22,5 +22,10 @@
 - Total cards reviewed: 373
 - Total time studied: 2.3 hrs
 
+### Session history
+| Date | Cards | Time |
+|------|-------|------|
+| 2026-03-01 | 373 | 137 min |
+
 ---
 *Auto-updated by [ankitracker](https://github.com/KoSGHOST7S/AnkiTracker)*
