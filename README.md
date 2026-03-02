@@ -25,7 +25,7 @@
 ### Session history
 | Date | Cards | Time |
 |------|-------|------|
-| 2026-03-01 | 373 | 137 min |
+| 2026-03-01 | 373 | 2.3 hrs |
 
 ---
 *Auto-updated by [ankitracker](https://github.com/KoSGHOST7S/AnkiTracker)*
