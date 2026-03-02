@@ -141,11 +141,27 @@ def build_readme(deck_stats: list, sessions: list) -> str:
     )
     deck_rows += f"\n| **Total** | **{total_cards}** | **{total_min} min** |"
 
-    all_time = sum(s["cards"] for s in sessions)
+    all_time_cards = sum(s["cards"] for s in sessions)
+    all_time_ms = sum(s.get("time_ms", 0) for s in sessions)
+    all_time_hours = all_time_ms / 3600000
     heatmap = build_heatmap(sessions)
+
+    if all_time_hours >= 1:
+        total_time_label = f"{all_time_hours:.1f} hrs"
+    else:
+        total_time_label = f"{round(all_time_ms / 60000)} min"
+
+    # Session history table — most recent first, last 30 sessions
+    recent = sorted(sessions, key=lambda s: s["date"], reverse=True)[:30]
+    history_rows = "\n".join(
+        f"| {s['date']} | {s['cards']:,} | {s.get('time_ms', 0) / 3600000:.1f} hrs |"
+        for s in recent
+    )
 
     return f"""\
 # Anki Study Tracker
+
+A custom Python integration that automatically tracks my daily [Anki](https://apps.ankiweb.net/) flashcard sessions and commits the stats here after every study session. Built with a Python script that reads directly from Anki's SQLite database and a custom Anki add-on that triggers it on close — no manual steps required.
 
 **Streak:** {streak_label}
 
@@ -159,7 +175,13 @@ def build_readme(deck_stats: list, sessions: list) -> str:
 
 ### All-time
 - Total sessions: {len(sessions):,}
-- Total cards reviewed: {all_time:,}
+- Total cards reviewed: {all_time_cards:,}
+- Total time studied: {total_time_label}
+
+### Session history
+| Date | Cards | Time |
+|------|-------|------|
+{history_rows}
 
 ---
 *Auto-updated by [ankitracker](https://github.com/KoSGHOST7S/AnkiTracker)*
@@ -212,15 +234,18 @@ def main() -> None:
 
     existing = next((s for s in sessions if s["date"] == today_iso), None)
     total_today = sum(d["cards"] for d in deck_stats)
+    time_today_ms = sum(d["time_ms"] for d in deck_stats)
 
     if existing:
         existing["cards"] = total_today
+        existing["time_ms"] = time_today_ms
         existing["decks"] = [d["deck"] for d in deck_stats]
     else:
         sessions.append(
             {
                 "date": today_iso,
                 "cards": total_today,
+                "time_ms": time_today_ms,
                 "decks": [d["deck"] for d in deck_stats],
             }
         )
