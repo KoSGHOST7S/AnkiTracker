@@ -11,13 +11,13 @@ A custom Python integration that automatically tracks my daily [Anki](https://ap
 ⬜⬜⬜⬜⬜⬜🟩
 
 ### Today — Sun Mar 1, 2026
-| Deck | Cards | Time |
-|------|-------|------|
-| Spring 2026 Semester04)Intermediate FinanceWeek4:WACC | 301 | 112 min |
-| Spring 2026 Semester04)Intermediate Finance01)Week 11.1) Bond and Stock valuation | 51 | 18 min |
-| Spring 2026 Semester04)Intermediate Finance01)Week 11.2) Ratios | 16 | 6 min |
-| Spring 2026 Semester04)Intermediate Finance01)Week 11.0) Some Prereq knowledge | 15 | 4 min |
-| **Total** | **383** | **139 min** |
+| Deck | Cards | Time | Accuracy |
+|------|-------|------|----------|
+| Spring 2026 Semester04)Intermediate FinanceWeek4:WACC | 301 | 112 min | 65% |
+| Spring 2026 Semester04)Intermediate Finance01)Week 11.1) Bond and Stock valuation | 51 | 18 min | 75% |
+| Spring 2026 Semester04)Intermediate Finance01)Week 11.2) Ratios | 16 | 6 min | 50% |
+| Spring 2026 Semester04)Intermediate Finance01)Week 11.0) Some Prereq knowledge | 15 | 4 min | 73% |
+| **Total** | **383** | **139 min** | **66%** |
 
 ### All-time
 - Total sessions: 1
