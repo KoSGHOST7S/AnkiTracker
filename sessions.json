@@ -2,14 +2,15 @@
   "sessions": [
     {
       "date": "2026-03-01",
-      "cards": 383,
+      "cards": 573,
       "decks": [
         "Spring 2026 Semester\u001f04)Intermediate Finance\u001fWeek4:WACC",
         "Spring 2026 Semester\u001f04)Intermediate Finance\u001f01)Week 1\u001f1.1) Bond and Stock valuation",
+        "Spring 2026 Semester\u001f04)Intermediate Finance\u001f02)Week2:Corporate Governance",
         "Spring 2026 Semester\u001f04)Intermediate Finance\u001f01)Week 1\u001f1.2) Ratios",
         "Spring 2026 Semester\u001f04)Intermediate Finance\u001f01)Week 1\u001f1.0) Some Prereq knowledge"
       ],
-      "time_ms": 8363348
+      "time_ms": 11100942
     }
   ]
 }

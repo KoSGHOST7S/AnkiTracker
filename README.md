@@ -14,20 +14,21 @@ A custom Python integration that automatically tracks my daily [Anki](https://ap
 | Deck | Cards | Time |
 |------|-------|------|
 | Spring 2026 Semester04)Intermediate FinanceWeek4:WACC | 301 | 112 min |
-| Spring 2026 Semester04)Intermediate Finance01)Week 11.1) Bond and Stock valuation | 51 | 18 min |
-| Spring 2026 Semester04)Intermediate Finance01)Week 11.2) Ratios | 16 | 6 min |
-| Spring 2026 Semester04)Intermediate Finance01)Week 11.0) Some Prereq knowledge | 15 | 4 min |
-| **Total** | **383** | **139 min** |
+| Spring 2026 Semester04)Intermediate Finance01)Week 11.1) Bond and Stock valuation | 180 | 53 min |
+| Spring 2026 Semester04)Intermediate Finance02)Week2:Corporate Governance | 34 | 5 min |
+| Spring 2026 Semester04)Intermediate Finance01)Week 11.2) Ratios | 33 | 9 min |
+| Spring 2026 Semester04)Intermediate Finance01)Week 11.0) Some Prereq knowledge | 25 | 7 min |
+| **Total** | **573** | **185 min** |
 
 ### All-time
 - Total sessions: 1
-- Total cards reviewed: 383
-- Total time studied: 2.3 hrs
+- Total cards reviewed: 573
+- Total time studied: 3.1 hrs
 
 ### Session history
 | Date | Cards | Time |
 |------|-------|------|
-| 2026-03-01 | 383 | 2.3 hrs |
+| 2026-03-01 | 573 | 3.1 hrs |
 
 ---
 *Auto-updated by [ankitracker](https://github.com/KoSGHOST7S/AnkiTracker)*
