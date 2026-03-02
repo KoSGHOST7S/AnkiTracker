@@ -1,5 +1,7 @@
 # Anki Study Tracker
 
+A custom Python integration that automatically tracks my daily [Anki](https://apps.ankiweb.net/) flashcard sessions and commits the stats here after every study session. Built with a Python script that reads directly from Anki's SQLite database and a custom Anki add-on that triggers it on close — no manual steps required.
+
 **Streak:** 🔥 1 day
 
 ### Last 28 days
