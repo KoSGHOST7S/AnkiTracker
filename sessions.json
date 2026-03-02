@@ -14,10 +14,14 @@
     },
     {
       "date": "2026-03-02",
-      "cards": 4,
-      "time_ms": 31651,
+      "cards": 90,
+      "time_ms": 1314184,
       "decks": [
-        "Spring 2026 Semester\u001f04)Intermediate Finance\u001f02)Week2:Corporate Governance"
+        "Spring 2026 Semester\u001f04)Intermediate Finance\u001f01)Week 1\u001f1.1) Bond and Stock valuation",
+        "Spring 2026 Semester\u001f04)Intermediate Finance\u001f01)Week 1\u001f1.2) Ratios",
+        "Spring 2026 Semester\u001f04)Intermediate Finance\u001f01)Week 1\u001f1.0) Some Prereq knowledge",
+        "Spring 2026 Semester\u001f04)Intermediate Finance\u001f02)Week2:Corporate Governance",
+        "Spring 2026 Semester\u001f04)Intermediate Finance\u001f02)Week3: Risk"
       ]
     }
   ]
