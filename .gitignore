@@ -1,0 +1,5 @@
+.tmp_collection.anki2
+.tmp_collection.anki2-wal
+.tmp_collection.anki2-shm
+__pycache__/
+*.pyc
