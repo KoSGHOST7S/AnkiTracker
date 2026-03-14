@@ -14,17 +14,18 @@ A custom Python integration that automatically tracks my daily [Anki](https://ap
 | Deck | Cards | Time |
 |------|-------|------|
 | Spring 2026 Semester04)Intermediate FinanceWeek5:Capital  Budgeting | 69 | 33 min |
-| **Total** | **69** | **33 min** |
+| Spring 2026 Semester01)Computer NetworksWeek6 – Command Line and Scripting | 67 | 18 min |
+| **Total** | **136** | **51 min** |
 
 ### All-time
 - Total sessions: 3
-- Total cards reviewed: 975
-- Total time studied: 5.6 hrs
+- Total cards reviewed: 1,042
+- Total time studied: 5.9 hrs
 
 ### Session history
 | Date | Cards | Time |
 |------|-------|------|
-| 2026-03-14 | 69 | 0.6 hrs |
+| 2026-03-14 | 136 | 0.9 hrs |
 | 2026-03-02 | 333 | 1.9 hrs |
 | 2026-03-01 | 573 | 3.1 hrs |
 
