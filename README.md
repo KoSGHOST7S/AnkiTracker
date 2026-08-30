@@ -13,18 +13,19 @@ A custom Python integration that automatically tracks my daily [Anki](https://ap
 ### Today — Sun Aug 30, 2026
 | Deck | Cards | Time |
 |------|-------|------|
-| CollegeFall 20262026FA-CSC-315-S01(Network Adminisration)Week1 | 70 | 43 min |
-| **Total** | **70** | **43 min** |
+| CollegeFall 20262026FA-CSC-315-S01(Network Adminisration)Week1 | 105 | 63 min |
+| CollegeFall 20262026FA-CSC-410-S01(Advanced Computer Networks)week1 | 81 | 26 min |
+| **Total** | **186** | **90 min** |
 
 ### All-time
 - Total sessions: 23
-- Total cards reviewed: 4,291
-- Total time studied: 26.6 hrs
+- Total cards reviewed: 4,407
+- Total time studied: 27.3 hrs
 
 ### Session history
 | Date | Cards | Time |
 |------|-------|------|
-| 2026-08-30 | 70 | 0.7 hrs |
+| 2026-08-30 | 186 | 1.5 hrs |
 | 2026-08-29 | 66 | 0.4 hrs |
 | 2026-08-28 | 213 | 1.7 hrs |
 | 2026-05-04 | 1 | 0.0 hrs |

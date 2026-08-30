@@ -218,10 +218,11 @@
     },
     {
       "date": "2026-08-30",
-      "cards": 70,
-      "time_ms": 2586740,
+      "cards": 186,
+      "time_ms": 5370995,
       "decks": [
-        "College\u001fFall 2026\u001f2026FA-CSC-315-S01(Network Adminisration)\u001fWeek1"
+        "College\u001fFall 2026\u001f2026FA-CSC-315-S01(Network Adminisration)\u001fWeek1",
+        "College\u001fFall 2026\u001f2026FA-CSC-410-S01(Advanced Computer Networks)\u001fweek1"
       ]
     }
   ]
