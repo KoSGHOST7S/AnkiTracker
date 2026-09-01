@@ -2,31 +2,30 @@
 
 A custom Python integration that automatically tracks my daily [Anki](https://apps.ankiweb.net/) flashcard sessions and commits the stats here after every study session. Built with a Python script that reads directly from Anki's SQLite database and a custom Anki add-on that triggers it on close — no manual steps required.
 
-**Streak:** 🔥 4 days
+**Streak:** 🔥 5 days
 
 ### Last 28 days
 ⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜🟩🟩🟩🟩
+⬜⬜🟩🟩🟩🟩🟩
 
-### Today — Mon Aug 31, 2026
+### Today — Tue Sep 1, 2026
 | Deck | Cards | Time |
 |------|-------|------|
-| CollegeFall 20262026FA-CSC-410-S01(Advanced Computer Networks)week1 | 75 | 24 min |
-| CollegeFall 2026Financial Modeling Capstoneweek1 | 21 | 11 min |
-| CollegeFall 20262026FA-CSC-315-S01(Network Adminisration)Week1 | 16 | 5 min |
-| CollegeFall 2026Financial Modeling Capstone | 5 | 1 min |
-| **Total** | **117** | **41 min** |
+| CollegeFall 20262026FA-CSC-410-S01(Advanced Computer Networks)week1 | 48 | 19 min |
+| CollegeFall 20262026FA-CSC-315-S01(Network Adminisration)Week1 | 3 | 1 min |
+| **Total** | **51** | **20 min** |
 
 ### All-time
-- Total sessions: 24
-- Total cards reviewed: 4,524
-- Total time studied: 28.0 hrs
+- Total sessions: 25
+- Total cards reviewed: 4,575
+- Total time studied: 28.4 hrs
 
 ### Session history
 | Date | Cards | Time |
 |------|-------|------|
+| 2026-09-01 | 51 | 0.3 hrs |
 | 2026-08-31 | 117 | 0.7 hrs |
 | 2026-08-30 | 186 | 1.5 hrs |
 | 2026-08-29 | 66 | 0.4 hrs |
