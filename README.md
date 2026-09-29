@@ -5,25 +5,26 @@ A custom Python integration that automatically tracks my daily [Anki](https://ap
 **Streak:** 🔥 1 day
 
 ### Last 28 days
-🟩🟩⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜⬜⬜🟩
+⬜⬜⬜⬜⬜⬜⬜
+⬜⬜⬜⬜🟩⬜🟩
 
-### Today — Sun Sep 27, 2026
+### Today — Tue Sep 29, 2026
 | Deck | Cards | Time |
 |------|-------|------|
-| CollegeSpring 2026 Semester04)Intermediate FinanceWeek3: Risk | 154 | 64 min |
-| **Total** | **154** | **64 min** |
+| CollegeSpring 2026 Semester04)Intermediate FinanceWeek3: Risk | 47 | 18 min |
+| **Total** | **47** | **18 min** |
 
 ### All-time
-- Total sessions: 26
-- Total cards reviewed: 4,740
-- Total time studied: 29.5 hrs
+- Total sessions: 27
+- Total cards reviewed: 4,787
+- Total time studied: 29.8 hrs
 
 ### Session history
 | Date | Cards | Time |
 |------|-------|------|
+| 2026-09-29 | 47 | 0.3 hrs |
 | 2026-09-27 | 154 | 1.1 hrs |
 | 2026-09-01 | 62 | 0.4 hrs |
 | 2026-08-31 | 117 | 0.7 hrs |
