@@ -2,28 +2,29 @@
 
 A custom Python integration that automatically tracks my daily [Anki](https://apps.ankiweb.net/) flashcard sessions and commits the stats here after every study session. Built with a Python script that reads directly from Anki's SQLite database and a custom Anki add-on that triggers it on close — no manual steps required.
 
-**Streak:** 🔥 1 day
+**Streak:** 🔥 2 days
 
 ### Last 28 days
 ⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜
 ⬜⬜⬜⬜⬜⬜⬜
-⬜⬜⬜⬜🟩⬜🟩
+⬜⬜⬜🟩⬜🟩🟩
 
-### Today — Tue Sep 29, 2026
+### Today — Wed Sep 30, 2026
 | Deck | Cards | Time |
 |------|-------|------|
-| CollegeSpring 2026 Semester04)Intermediate FinanceWeek3: Risk | 47 | 18 min |
-| **Total** | **47** | **18 min** |
+| CollegeSpring 2026 Semester04)Intermediate FinanceWeek4:WACC | 1 | 1 min |
+| **Total** | **1** | **1 min** |
 
 ### All-time
-- Total sessions: 27
-- Total cards reviewed: 4,787
+- Total sessions: 28
+- Total cards reviewed: 4,788
 - Total time studied: 29.8 hrs
 
 ### Session history
 | Date | Cards | Time |
 |------|-------|------|
+| 2026-09-30 | 1 | 0.0 hrs |
 | 2026-09-29 | 47 | 0.3 hrs |
 | 2026-09-27 | 154 | 1.1 hrs |
 | 2026-09-01 | 62 | 0.4 hrs |
